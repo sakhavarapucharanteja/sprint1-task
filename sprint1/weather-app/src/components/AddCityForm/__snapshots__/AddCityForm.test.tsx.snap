@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddCityForm Renders 1`] = `
+<input
+  aria-invalid="false"
+  class="MuiFilledInput-input MuiInputBase-input css-10botns-MuiInputBase-input-MuiFilledInput-input"
+  id="filled-basic"
+  type="text"
+  value=""
+/>
+`;
